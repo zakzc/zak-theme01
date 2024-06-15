@@ -1,0 +1,21 @@
+{
+  "name": "zak-theme01",
+  "displayName": "zak_theme01",
+  "description": "My personal VS Code theme, first attempt.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zak_theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zak_theme-color-theme.json"
+      }
+    ]
+  }
+}
